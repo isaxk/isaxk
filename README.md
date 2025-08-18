@@ -3,6 +3,6 @@
 
 Casual Web Developer
 
-- Currently working on: [YT Desk](https://github.com/isaxk/ytdesk)
+- Currently working on: [Dialock](https://dialock.isaxk.com)
 - My Website: [isaxk.com](https://www.isaxk.com) 
 
