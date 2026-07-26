@@ -1,8 +1,8 @@
 
-## Isaac (@isaxk)
+## Hi I'm Isaac
 
-Sometimes making things
+I make stuff sometimes
 
-- Currently working on: [Dialock](https://dialock.isaxk.com)
+- Currently working on: something new...
 - My Website: [isaxk.com](https://www.isaxk.com) 
 
