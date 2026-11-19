@@ -5,5 +5,5 @@
 - My Website: [isaxk.com](https://www.isaxk.com)
 
 ### My stack
-Svelte + Sveltekit (❤️❤️❤️), Tailwindcss, Convex
+Typescript, Sveltekit (❤️❤️❤️), Tailwindcss, postgres, node.js
 
